@@ -37,4 +37,5 @@ The project uses a Linear Regression model to predict car prices.
 
 Linear Regression is a supervised machine learning algorithm used to predict a continuous numerical value (like car price) based on input features.
 
-<img width="736" height="582" alt="image" src="https://github.com/user-attachments/assets/2274176e-10b4-4a06-85cb-02886aa6b1dc" />
+<img width="731" height="576" alt="image" src="https://github.com/user-attachments/assets/740a7496-eb14-457c-a3b3-beb1af1850f3" />
+
